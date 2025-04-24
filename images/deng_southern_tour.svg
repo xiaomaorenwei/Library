@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300">
+  <!-- 背景 -->
+  <rect width="600" height="300" fill="#f5f5f5"/>
+  
+  <!-- 标题 -->
+  <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#333">1992年邓小平南方谈话</text>
+  
+  <!-- 场景：深圳特区 -->
+  <g transform="translate(0, 50)">
+    <!-- 背景：城市轮廓 -->
+    <rect x="50" y="50" width="500" height="150" fill="#e0e0e0" stroke="#333"/>
+    
+    <!-- 天空 -->
+    <rect x="50" y="50" width="500" height="50" fill="#87ceeb"/>
+    
+    <!-- 摩天大楼 -->
+    <rect x="80" y="60" width="30" height="140" fill="#2c3e50" stroke="#333"/>
+    <rect x="120" y="70" width="40" height="130" fill="#34495e" stroke="#333"/>
+    <rect x="170" y="50" width="35" height="150" fill="#2c3e50" stroke="#333"/>
+    <rect x="215" y="80" width="25" height="120" fill="#34495e" stroke="#333"/>
+    <rect x="250" y="60" width="30" height="140" fill="#2c3e50" stroke="#333"/>
+    <rect x="290" y="70" width="40" height="130" fill="#34495e" stroke="#333"/>
+    <rect x="340" y="50" width="35" height="150" fill="#2c3e50" stroke="#333"/>
+    <rect x="385" y="80" width="25" height="120" fill="#34495e" stroke="#333"/>
+    <rect x="420" y="60" width="30" height="140" fill="#2c3e50" stroke="#333"/>
+    <rect x="460" y="70" width="40" height="130" fill="#34495e" stroke="#333"/>
+    
+    <!-- 窗户（简化） -->
+    <g fill="#f9ca24" opacity="0.3">
+      <rect x="85" y="70" width="20" height="120"/>
+      <rect x="125" y="80" width="30" height="110"/>
+      <rect x="175" y="60" width="25" height="130"/>
+      <rect x="220" y="90" width="15" height="100"/>
+      <rect x="255" y="70" width="20" height="120"/>
+      <rect x="295" y="80" width="30" height="110"/>
+      <rect x="345" y="60" width="25" height="130"/>
+      <rect x="390" y="90" width="15" height="100"/>
+      <rect x="425" y="70" width="20" height="120"/>
+      <rect x="465" y="80" width="30" height="110"/>
+    </g>
+    
+    <!-- 道路 -->
+    <rect x="50" y="190" width="500" height="10" fill="#7f8c8d"/>
+    
+    <!-- 人物：邓小平及陪同人员 -->
+    <g transform="translate(250, 160)">
+      <!-- 邓小平（中心人物） -->
+      <circle cx="0" cy="0" r="15" fill="#333"/>
+      <rect x="-10" y="15" width="20" height="25" fill="#2c3e50"/>
+      <line x1="-10" y1="20" x2="-20" y2="35" stroke="#2c3e50" stroke-width="3"/>
+      <line x1="10" y1="20" x2="20" y2="35" stroke="#2c3e50" stroke-width="3"/>
+      <line x1="0" y1="40" x2="-10" y2="60" stroke="#2c3e50" stroke-width="3"/>
+      <line x1="0" y1="40" x2="10" y2="60" stroke="#2c3e50" stroke-width="3"/>
+      
+      <!-- 眼镜 -->
+      <circle cx="-5" cy="-2" r="4" fill="none" stroke="#000" stroke-width="1"/>
+      <circle cx="5" cy="-2" r="4" fill="none" stroke="#000" stroke-width="1"/>
+      <line x1="-1" y1="-2" x2="1" y2="-2" stroke="#000" stroke-width="1"/>
+      
+      <!-- 陪同人员1（左） -->
+      <circle cx="-30" cy="0" r="12" fill="#333"/>
+      <rect x="-38" y="12" width="16" height="25" fill="#34495e"/>
+      <line x1="-38" y1="17" x2="-45" y2="30" stroke="#34495e" stroke-width="2"/>
+      <line x1="-22" y1="17" x2="-15" y2="30" stroke="#34495e" stroke-width="2"/>
+      <line x1="-30" y1="37" x2="-38" y2="55" stroke="#34495e" stroke-width="2"/>
+      <line x1="-30" y1="37" x2="-22" y2="55" stroke="#34495e" stroke-width="2"/>
+      
+      <!-- 陪同人员2（右） -->
+      <circle cx="30" cy="0" r="12" fill="#333"/>
+      <rect x="22" y="12" width="16" height="25" fill="#34495e"/>
+      <line x1="22" y1="17" x2="15" y2="30" stroke="#34495e" stroke-width="2"/>
+      <line x1="38" y1="17" x2="45" y2="30" stroke="#34495e" stroke-width="2"/>
+      <line x1="30" y1="37" x2="22" y2="55" stroke="#34495e" stroke-width="2"/>
+      <line x1="30" y1="37" x2="38" y2="55" stroke="#34495e" stroke-width="2"/>
+    </g>
+    
+    <!-- 标语牌 -->
+    <rect x="150" y="100" width="300" height="40" fill="#d32f2f" stroke="#333"/>
+    <text x="300" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">改革开放胆子要大一些</text>
+  </g>
+  
+  <!-- 底部说明 -->
+  <text x="300" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#666">1992年，邓小平视察南方经济特区，发表重要讲话</text>
+</svg>
