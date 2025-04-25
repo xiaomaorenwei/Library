@@ -1,0 +1,14 @@
+/Users/xiaomaorenwei/Desktop/code/library-management/src/main/java/com/example/library/LibraryApplication.java
+/Users/xiaomaorenwei/Desktop/code/library-management/src/main/java/com/example/library/LibraryManagementApplication.java
+/Users/xiaomaorenwei/Desktop/code/library-management/src/main/java/com/example/library/controller/BookController.java
+/Users/xiaomaorenwei/Desktop/code/library-management/src/main/java/com/example/library/controller/BorrowRecordController.java
+/Users/xiaomaorenwei/Desktop/code/library-management/src/main/java/com/example/library/controller/UserController.java
+/Users/xiaomaorenwei/Desktop/code/library-management/src/main/java/com/example/library/model/Book.java
+/Users/xiaomaorenwei/Desktop/code/library-management/src/main/java/com/example/library/model/BorrowRecord.java
+/Users/xiaomaorenwei/Desktop/code/library-management/src/main/java/com/example/library/model/User.java
+/Users/xiaomaorenwei/Desktop/code/library-management/src/main/java/com/example/library/repository/BookRepository.java
+/Users/xiaomaorenwei/Desktop/code/library-management/src/main/java/com/example/library/repository/BorrowRecordRepository.java
+/Users/xiaomaorenwei/Desktop/code/library-management/src/main/java/com/example/library/repository/UserRepository.java
+/Users/xiaomaorenwei/Desktop/code/library-management/src/main/java/com/example/library/service/BookService.java
+/Users/xiaomaorenwei/Desktop/code/library-management/src/main/java/com/example/library/service/BorrowRecordService.java
+/Users/xiaomaorenwei/Desktop/code/library-management/src/main/java/com/example/library/service/UserService.java
